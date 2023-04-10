@@ -1127,6 +1127,9 @@ header {
    .check-text {
       display: inline;
    }
+   .mob-contact-item-link-tel {
+      font-size: 26px;
+   }
 }
 
 @media screen and (max-width: 1157px) {
@@ -1267,7 +1270,7 @@ header {
 
    /*footer*/
    .bottom-soc-container {
-      margin-left: 24px;
+      /*margin-left: 24px;*/
    }
 
    .bottom-container div {
@@ -1280,7 +1283,7 @@ header {
    }
 
    .bottom-container.container {
-      padding-left: 108px;
+      width: 552px;
    }
 
    .bottom-form {
@@ -1467,6 +1470,6 @@ header {
    }
 
    .bottom-container.container {
-      padding-left: 15px;
+      width: 1158px;
    }
 }
